@@ -1,0 +1,114 @@
+
+div.tittle{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color:lightcyan;
+}
+
+h1 {
+    color:darkcyan;
+    text-align: center;
+    position: absolute;
+    top: 80px;
+    right: 0px;
+    left: 0px;
+    font-size: 50px;
+    margin: 0px;
+}
+
+.etsisi1{
+    width: 20%;
+    text-align: left;
+    border-radius: 8px;
+    background-color: white;
+}
+.etsisi2{
+    width: 20%;
+    position: absolute;
+    top: 8px;
+    right: 10px;
+    border-radius: 8px;
+    background-color:white;
+}
+
+h2 {
+    color: darkcyan;
+    text-align: center;
+    position: absolute;
+    top: 200px;
+    right: 0px;
+    left: 0px;
+    font-size: 20px;
+    margin: 0px;
+}
+
+h3 {
+    color:darkcyan;
+    text-align: left;
+    font-size: 30px;
+    margin: 0px;
+}
+
+p {
+    color: brown;
+    font-style: inherit;
+}
+
+div.login1 {
+  width: 254px;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(83, 138, 255, 0.747), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}
+
+div.container {
+    text-align: center;
+    padding: 10px 20px;
+}
+
+div.login2 {
+    width: 254px;
+    background-color: white;
+    position: absolute;
+    top: 347px;
+    right: 0px;
+    left: 300px;
+    box-shadow: 0 4px 8px 0 rgba(83, 138, 255, 0.747), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+  }
+  
+
+  div.login3 {
+    width: 254px;
+    background-color: white;
+    position: absolute;
+    top: 347px;
+    right: 0px;
+    left: 590px;
+    box-shadow: 0 4px 8px 0 rgba(83, 138, 255, 0.747), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+  }
+
+  div.login4 {
+    width: 254px;
+    background-color: white;
+    position: absolute;
+    top: 647px;
+    right: 0px;
+    left: 300px;
+    box-shadow: 0 4px 8px 0 rgba(83, 138, 255, 0.747), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+  }
+
+  div.login5 {
+    width: 254px;
+    background-color: white;
+    position: absolute;
+    top: 647px;
+    right: 0px;
+    left: 590px;
+    box-shadow: 0 4px 8px 0 rgba(83, 138, 255, 0.747), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+  }
+  
+
+  
